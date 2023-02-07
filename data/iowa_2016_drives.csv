@@ -1,0 +1,322 @@
+﻿offense,offense_conference,defense,defense_conference,game_id,id,drive_number,scoring,start_period,start_yardline,start_yards_to_goal,start_time.minutes,start_time.seconds,end_period,end_yardline,end_yards_to_goal,end_time.minutes,end_time.seconds,elapsed.minutes,elapsed.seconds,plays,yards,drive_result,is_home_offense,start_offense_score,start_defense_score,end_offense_score,end_defense_score
+Iowa,Big Ten,Iowa State,Big 12,400868888,4008688881,1,false,1,25,75,15,0,1,54,46,12,29,2,31,5,29,PUNT,true,0,0,0,0
+Iowa State,Big 12,Iowa,Big Ten,400868888,4008688882,2,false,1,86,86,12,29,1,83,83,11,37,0,52,3,3,PUNT,false,0,0,0,0
+Iowa,Big Ten,Iowa State,Big 12,400868888,4008688883,3,true,1,58,42,11,37,1,100,0,8,42,2,55,7,42,TD,true,0,0,7,0
+Iowa State,Big 12,Iowa,Big Ten,400868888,4008688884,4,false,1,75,75,8,42,1,70,70,7,15,1,27,3,5,PUNT,false,0,7,0,7
+Iowa,Big Ten,Iowa State,Big 12,400868888,4008688885,5,true,1,34,66,7,15,1,100,0,5,42,1,33,4,66,TD,true,7,0,14,0
+Iowa State,Big 12,Iowa,Big Ten,400868888,4008688886,6,true,1,77,77,5,42,1,14,14,0,32,5,10,11,63,FG,false,0,14,3,14
+Iowa,Big Ten,Iowa State,Big 12,400868888,4008688887,7,true,1,34,66,0,32,2,100,0,10,15,5,17,10,66,TD,true,14,3,21,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,4008688888,8,false,2,75,75,10,15,2,58,58,7,42,2,33,5,17,PUNT,false,3,21,3,21
+Iowa,Big Ten,Iowa State,Big 12,400868888,4008688889,9,true,2,14,86,7,42,2,100,0,2,17,5,25,9,86,TD,true,21,3,28,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888810,10,false,2,76,76,2,11,2,48,48,0,0,2,11,7,28,DOWNS,false,3,28,3,28
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888812,11,false,3,75,75,15,0,3,49,49,12,53,2,7,7,26,PUNT,false,3,28,3,28
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888813,12,false,3,20,80,12,53,3,23,77,11,4,1,49,5,3,PUNT,true,28,3,28,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888814,13,false,3,68,68,11,4,3,61,61,9,34,1,30,3,7,PUNT,false,3,28,3,28
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888815,14,false,3,13,87,9,34,3,20,80,7,21,2,13,6,7,PUNT,true,28,3,28,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888816,15,false,3,68,68,7,21,3,66,66,6,31,0,50,3,2,PUNT,false,3,28,3,28
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888817,16,true,3,32,68,6,31,3,100,0,3,18,3,13,6,68,TD,true,28,3,35,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888818,17,false,3,75,75,3,18,3,63,63,1,50,1,28,4,12,INT,false,3,35,3,35
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888819,18,true,3,57,43,1,50,3,100,0,1,33,0,17,2,43,TD,true,35,3,42,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888820,19,false,3,75,75,1,33,4,44,44,14,29,2,4,6,31,PUNT,false,3,42,3,42
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888821,20,false,4,20,80,14,29,4,43,57,11,8,3,21,5,23,PUNT,true,42,3,42,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888822,21,false,4,91,91,11,8,4,42,42,6,53,4,15,10,49,PUNT,false,3,42,3,42
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888823,22,false,4,28,72,6,53,4,24,76,5,12,1,41,3,-4,PUNT,true,42,3,42,3
+Iowa State,Big 12,Iowa,Big Ten,400868888,40086888824,23,false,4,66,66,5,12,4,43,43,1,53,3,19,9,23,PUNT,false,3,42,3,42
+Iowa,Big Ten,Iowa State,Big 12,400868888,40086888825,24,false,4,17,83,1,53,4,36,64,0,0,1,53,4,19,END OF GAME,true,42,3,42,3
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,4008692621,1,false,1,75,75,15,0,1,57,57,12,3,2,57,5,18,PUNT,false,0,0,0,0
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,4008692622,2,true,1,20,80,12,3,1,100,0,9,7,2,56,6,80,TD,true,0,0,7,0
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,4008692623,3,false,1,75,75,9,7,1,60,60,7,48,1,19,4,15,FUMBLE,false,0,7,0,7
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,4008692624,4,true,1,88,12,7,48,1,100,0,7,14,0,34,2,12,TD,true,7,0,14,0
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,4008692625,5,false,1,75,75,7,14,1,8,8,6,25,0,49,2,60,FUMBLE,false,0,14,0,14
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,4008692626,6,true,1,19,81,6,25,1,100,0,5,41,0,44,2,81,TD,true,14,0,21,0
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,4008692627,7,true,1,75,75,5,41,2,0,0,13,42,6,59,12,75,TD,false,0,21,7,21
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,4008692628,8,false,2,22,78,13,42,2,29,71,11,17,2,25,3,7,PUNT,true,21,7,21,7
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,4008692629,9,false,2,79,79,11,17,2,73,73,10,19,0,58,3,6,PUNT,false,7,21,7,21
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,40086926210,10,true,2,32,68,10,19,2,100,0,7,15,3,4,7,68,TD,true,21,7,28,7
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,40086926211,11,false,2,75,75,7,15,2,36,36,3,23,3,52,9,39,MISSED FG,false,7,28,7,28
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,40086926212,12,false,2,36,64,3,23,2,41,59,1,15,2,8,3,5,PUNT,true,28,7,28,7
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,40086926213,13,false,2,77,77,1,15,2,67,67,0,0,1,15,2,10,END OF HALF,false,7,28,7,28
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,40086926214,14,true,3,48,52,15,0,3,100,0,11,37,3,23,8,52,TD,true,28,7,35,7
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,40086926215,15,true,3,75,75,11,37,3,0,0,4,41,6,56,13,75,TD,false,7,35,14,35
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,40086926216,16,false,3,26,74,4,41,3,35,65,1,53,2,48,6,9,PUNT,true,35,14,35,14
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,40086926217,17,true,3,74,74,1,53,4,0,0,9,43,7,10,12,74,TD,false,14,35,21,35
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,40086926218,18,true,4,28,72,9,43,4,97,3,6,4,3,39,9,69,FG,true,35,21,38,21
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,40086926219,19,false,4,75,75,6,4,4,76,76,5,6,0,58,3,-7,FUMBLE,false,21,38,21,38
+Iowa,Big Ten,Miami (OH),Mid-American,400869262,40086926220,20,true,4,82,18,5,6,4,100,0,3,8,1,58,5,18,TD,true,38,21,45,21
+Miami (OH),Mid-American,Iowa,Big Ten,400869262,40086926221,21,false,4,75,75,3,8,4,21,21,0,0,3,8,6,54,END OF GAME,false,21,45,21,45
+Rutgers,Big Ten,Iowa,Big Ten,400869634,4008696341,1,false,1,25,75,15,0,1,64,36,8,42,6,18,16,39,PUNT,true,0,0,0,0
+Iowa,Big Ten,Rutgers,Big Ten,400869634,4008696342,2,false,1,94,94,8,42,1,66,66,5,38,3,4,7,28,PUNT,false,0,0,0,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,4008696343,3,false,1,11,89,5,38,1,20,80,3,54,1,44,3,9,PUNT,true,0,0,0,0
+Iowa,Big Ten,Rutgers,Big Ten,400869634,4008696344,4,false,1,68,68,3,54,1,67,67,2,34,1,20,3,1,PUNT,false,0,0,0,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,4008696345,5,false,1,26,74,2,34,1,48,52,1,40,0,54,4,22,PUNT,true,0,0,0,0
+Iowa,Big Ten,Rutgers,Big Ten,400869634,4008696346,6,false,1,92,92,1,40,2,76,76,14,17,2,23,6,16,PUNT,false,0,0,0,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,4008696347,7,false,2,41,59,14,17,2,60,40,12,8,2,9,5,19,PUNT,true,0,0,0,0
+Iowa,Big Ten,Rutgers,Big Ten,400869634,4008696348,8,false,2,80,80,12,8,2,10,10,5,53,6,15,13,70,DOWNS,false,0,0,0,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,4008696349,9,false,2,10,90,5,53,2,99,1,2,4,3,49,9,89,DOWNS,true,0,0,0,0
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963410,10,false,2,99,99,2,4,2,0,0,0,34,1,30,8,99,TD,false,0,0,0,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,40086963411,11,false,2,25,75,0,34,2,20,80,0,0,0,34,1,-5,END OF HALF,true,0,7,0,7
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963412,12,false,3,75,75,15,0,3,41,41,11,12,3,48,6,34,PUNT,false,7,0,7,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,40086963413,13,false,3,36,64,11,12,3,47,53,7,54,3,18,7,31,PUNT,true,0,7,0,7
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963414,14,false,3,86,86,7,54,3,67,67,5,19,2,35,4,19,PUNT,false,7,0,7,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,40086963415,15,false,3,25,75,5,19,3,27,73,4,24,0,55,3,2,PUNT,true,0,7,0,7
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963416,16,false,3,67,67,4,24,3,58,58,2,21,2,3,3,9,PUNT,false,7,0,7,0
+Rutgers,Big Ten,Iowa,Big Ten,400869634,40086963417,17,false,3,12,88,2,21,4,100,0,12,38,4,36,13,88,TD,true,0,7,0,7
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963418,18,false,4,35,35,12,38,4,68,68,11,11,1,27,3,-16,PUNT,false,7,7,7,7
+Rutgers,Big Ten,Iowa,Big Ten,400869634,40086963419,19,false,4,18,82,11,11,4,21,79,8,42,2,29,6,3,FUMBLE,true,7,7,7,7
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963420,20,false,4,21,21,8,42,4,0,0,8,35,0,7,1,21,TD,false,7,7,7,7
+Rutgers,Big Ten,Iowa,Big Ten,400869634,40086963421,21,false,4,25,75,8,35,4,81,19,4,40,3,55,10,56,DOWNS,true,7,14,7,14
+Iowa,Big Ten,Rutgers,Big Ten,400869634,40086963422,22,false,4,81,81,4,40,4,59,59,0,0,4,40,7,22,END OF GAME,false,14,7,14,7
+North Dakota State,,Iowa,Big Ten,400869656,4008696561,1,false,1,75,75,15,0,1,41,41,10,2,4,58,8,34,PUNT,false,0,0,0,0
+Iowa,Big Ten,North Dakota State,,400869656,4008696562,2,false,1,2,98,10,2,1,2,98,9,0,1,2,3,0,PUNT,true,0,0,0,0
+North Dakota State,,Iowa,Big Ten,400869656,4008696563,3,false,1,45,45,9,0,1,33,33,5,6,3,54,7,12,INT,false,0,0,0,0
+Iowa,Big Ten,North Dakota State,,400869656,4008696564,4,true,1,15,85,5,6,1,27,73,2,26,2,40,5,12,INT TD,true,0,0,0,7
+Iowa,Big Ten,North Dakota State,,400869656,4008696565,5,true,1,25,75,2,26,2,100,0,13,3,4,23,11,75,TD,true,0,7,7,7
+North Dakota State,,Iowa,Big Ten,400869656,4008696566,6,false,2,75,75,13,3,2,37,37,9,33,3,30,7,38,PUNT,false,7,7,7,7
+Iowa,Big Ten,North Dakota State,,400869656,4008696567,7,true,2,17,83,9,33,2,100,0,8,5,1,28,3,83,TD,true,7,7,14,7
+North Dakota State,,Iowa,Big Ten,400869656,4008696568,8,false,2,76,76,8,5,2,53,53,5,5,3,0,4,23,PUNT,false,7,14,7,14
+Iowa,Big Ten,North Dakota State,,400869656,4008696569,9,false,2,20,80,5,5,2,19,81,4,9,0,56,3,-1,PUNT,true,14,7,14,7
+North Dakota State,,Iowa,Big Ten,400869656,40086965610,10,false,2,71,71,4,9,2,61,61,1,45,2,24,5,10,PUNT,false,7,14,7,14
+Iowa,Big Ten,North Dakota State,,400869656,40086965611,11,false,2,21,79,1,45,2,21,79,1,17,0,28,3,0,PUNT,true,14,7,14,7
+North Dakota State,,Iowa,Big Ten,400869656,40086965612,12,false,2,61,61,1,17,2,48,48,0,21,0,56,5,13,PUNT,false,7,14,7,14
+Iowa,Big Ten,North Dakota State,,400869656,40086965613,13,false,2,22,78,0,21,2,20,80,0,0,0,21,1,-2,END OF HALF,true,14,7,14,7
+Iowa,Big Ten,North Dakota State,,400869656,40086965614,14,false,3,35,65,15,0,3,23,77,13,8,1,52,3,-12,PUNT,true,14,7,14,7
+North Dakota State,,Iowa,Big Ten,400869656,40086965615,15,true,3,65,65,13,8,3,0,0,8,6,5,2,9,65,TD,false,7,14,14,14
+Iowa,Big Ten,North Dakota State,,400869656,40086965616,16,true,3,30,70,8,6,3,100,0,2,12,5,54,10,70,TD,true,14,14,21,14
+North Dakota State,,Iowa,Big Ten,400869656,40086965617,17,false,3,75,75,2,12,4,32,32,14,47,2,25,5,43,MISSED FG,false,14,21,14,21
+Iowa,Big Ten,North Dakota State,,400869656,40086965618,18,false,4,32,68,14,47,4,48,52,12,20,2,27,4,16,PUNT,true,21,14,21,14
+North Dakota State,,Iowa,Big Ten,400869656,40086965619,19,true,4,80,80,12,20,4,0,0,3,41,8,39,15,80,TD,false,14,21,20,21
+Iowa,Big Ten,North Dakota State,,400869656,40086965620,20,false,4,32,68,3,41,4,22,78,1,53,1,48,3,-10,PUNT,true,21,20,21,20
+North Dakota State,,Iowa,Big Ten,400869656,40086965621,21,true,4,66,66,1,53,4,65,65,0,0,1,53,5,46,END OF GAME,false,20,21,23,21
+Iowa,Big Ten,Northwestern,Big Ten,400869662,4008696621,1,false,1,25,75,15,0,1,18,82,12,56,2,4,3,-7,PUNT,true,0,0,0,0
+Northwestern,Big Ten,Iowa,Big Ten,400869662,4008696622,2,true,1,5,5,12,56,1,0,0,12,20,0,36,2,5,TD,false,0,0,7,0
+Iowa,Big Ten,Northwestern,Big Ten,400869662,4008696623,3,false,1,21,79,12,20,1,65,35,6,8,6,12,11,44,PUNT,true,0,7,0,7
+Northwestern,Big Ten,Iowa,Big Ten,400869662,4008696624,4,false,1,99,99,6,8,1,98,98,5,13,0,55,3,1,PUNT,false,7,0,7,0
+Iowa,Big Ten,Northwestern,Big Ten,400869662,4008696625,5,true,1,95,5,5,13,1,100,0,5,7,0,6,1,5,TD,true,7,7,7,7
+Northwestern,Big Ten,Iowa,Big Ten,400869662,4008696626,6,true,1,75,75,5,7,1,8,8,0,50,4,17,11,67,FG,false,7,7,10,7
+Iowa,Big Ten,Northwestern,Big Ten,400869662,4008696627,7,false,1,28,72,0,50,2,17,83,14,8,1,42,3,-11,PUNT,true,7,10,7,10
+Northwestern,Big Ten,Iowa,Big Ten,400869662,4008696628,8,true,2,54,54,14,8,2,0,0,10,33,3,35,9,54,TD,false,10,7,17,7
+Iowa,Big Ten,Northwestern,Big Ten,400869662,4008696629,9,false,2,25,75,10,33,2,28,72,9,32,1,1,3,3,PUNT,true,7,17,7,17
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966210,10,false,2,71,71,9,32,2,60,60,7,7,2,25,6,11,PUNT,false,17,7,17,7
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966211,11,true,2,45,55,7,7,2,100,0,5,2,2,5,7,55,TD,true,7,17,14,17
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966212,12,false,2,75,75,5,2,2,65,65,4,24,0,38,2,10,FUMBLE,false,17,14,17,14
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966213,13,true,2,65,35,4,24,2,100,0,2,51,1,33,4,35,TD,true,14,17,21,17
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966214,14,false,2,75,75,2,51,2,70,70,1,18,1,33,3,5,PUNT,false,17,21,17,21
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966215,15,false,2,29,71,1,18,2,29,71,0,36,0,42,3,0,PUNT,true,21,17,21,17
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966216,16,false,2,78,78,0,36,2,69,69,0,9,0,27,3,9,PUNT,false,17,21,17,21
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966217,17,false,2,33,67,0,9,2,33,67,0,0,0,9,1,0,END OF HALF,true,21,17,21,17
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966218,18,false,3,75,75,15,0,3,78,78,14,15,0,45,3,-3,PUNT,false,17,21,17,21
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966219,19,true,3,72,28,14,15,3,94,6,11,29,2,46,6,22,FG,true,21,17,24,17
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966220,20,true,3,75,75,11,29,3,0,0,6,15,5,14,11,75,TD,false,17,24,24,24
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966221,21,false,3,37,63,6,15,3,37,63,4,12,2,3,3,0,PUNT,true,24,24,24,24
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966222,22,true,3,77,77,4,12,3,0,0,2,7,2,5,5,77,TD,false,24,24,31,24
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966223,23,false,3,61,39,2,7,3,61,39,0,17,1,50,3,0,PUNT,true,24,31,24,31
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966224,24,true,3,0,0,0,17,4,0,0,12,6,3,11,7,80,TD,false,31,24,38,24
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966225,25,true,4,25,75,12,6,4,100,0,8,10,3,56,9,75,TD,true,24,38,31,38
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966226,26,false,4,75,75,8,10,4,68,68,6,52,1,18,3,7,PUNT,false,38,31,38,31
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966227,27,false,4,20,80,6,52,4,35,65,2,35,4,17,7,15,PUNT,true,31,38,31,38
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966228,28,false,4,80,80,2,35,4,74,74,2,11,0,24,3,6,PUNT,false,38,31,38,31
+Iowa,Big Ten,Northwestern,Big Ten,400869662,40086966229,29,false,4,31,69,2,11,4,53,47,0,58,1,13,5,22,INT,true,31,38,31,38
+Northwestern,Big Ten,Iowa,Big Ten,400869662,40086966230,30,false,4,64,64,0,58,4,66,66,0,0,0,58,2,-2,END OF GAME,false,38,31,38,31
+Minnesota,Big Ten,Iowa,Big Ten,400869668,4008696681,1,false,1,26,74,15,0,1,28,72,13,57,1,3,3,2,PUNT,true,0,0,0,0
+Iowa,Big Ten,Minnesota,Big Ten,400869668,4008696682,2,false,1,60,60,13,57,1,56,56,12,0,1,57,3,4,PUNT,false,0,0,0,0
+Minnesota,Big Ten,Iowa,Big Ten,400869668,4008696683,3,false,1,13,87,12,0,1,18,82,10,58,1,2,3,5,PUNT,true,0,0,0,0
+Iowa,Big Ten,Minnesota,Big Ten,400869668,4008696684,4,false,1,43,43,10,58,1,32,32,7,8,3,50,8,11,MISSED FG,false,0,0,0,0
+Minnesota,Big Ten,Iowa,Big Ten,400869668,4008696685,5,false,1,33,67,7,8,1,52,48,6,6,1,2,3,19,FUMBLE,true,0,0,0,0
+Iowa,Big Ten,Minnesota,Big Ten,400869668,4008696686,6,false,1,52,52,6,6,1,52,52,5,51,0,15,1,0,INT,false,0,0,0,0
+Minnesota,Big Ten,Iowa,Big Ten,400869668,4008696687,7,false,1,31,69,5,51,1,33,67,2,59,2,52,3,2,PUNT,true,0,0,0,0
+Iowa,Big Ten,Minnesota,Big Ten,400869668,4008696688,8,true,1,64,64,2,59,2,4,4,13,32,4,27,10,60,FG,false,0,0,3,0
+Minnesota,Big Ten,Iowa,Big Ten,400869668,4008696689,9,false,2,34,66,13,32,2,34,66,11,57,1,35,3,0,PUNT,true,0,3,0,3
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966810,10,false,2,93,93,11,57,2,39,39,7,7,4,50,11,54,PUNT,false,3,0,3,0
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966811,11,false,2,3,97,7,7,2,53,47,1,44,5,23,12,50,INT,true,0,3,0,3
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966812,12,false,2,58,58,1,44,2,70,70,0,0,1,44,2,-12,END OF HALF,false,3,0,3,0
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966813,13,true,3,70,70,15,0,3,10,10,10,10,4,50,10,60,FG,false,3,0,6,0
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966814,14,true,3,42,58,10,10,3,100,0,6,17,3,53,8,58,TD,true,0,6,7,6
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966815,15,false,3,75,75,6,17,3,80,80,4,4,2,13,3,-5,PUNT,false,6,7,6,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966816,16,false,3,40,60,4,4,3,59,41,1,57,2,7,4,19,PUNT,true,7,6,7,6
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966817,17,false,3,80,80,1,57,4,52,52,14,52,2,5,6,28,PUNT,false,6,7,6,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966818,18,false,4,14,86,14,52,4,20,80,13,23,1,29,3,6,PUNT,true,7,6,7,6
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966819,19,false,4,52,52,13,23,4,35,35,12,42,0,41,2,17,FUMBLE,false,6,7,6,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966820,20,false,4,35,65,12,42,4,40,60,11,46,0,56,3,5,PUNT,true,7,6,7,6
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966821,21,false,4,68,68,11,46,4,27,27,6,49,4,57,11,41,INT,false,6,7,6,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966822,22,false,4,21,79,6,49,4,24,76,5,36,1,13,3,3,PUNT,true,7,6,7,6
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966823,23,true,4,54,54,5,36,4,0,0,5,28,0,8,1,54,TD,false,14,7,14,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966824,24,false,4,25,75,5,28,4,16,84,3,50,1,38,3,-9,PUNT,true,7,14,7,14
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966825,25,false,4,67,67,3,50,4,60,60,2,39,1,11,3,7,PUNT,false,14,7,14,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966826,26,false,4,29,71,2,39,4,29,71,2,30,0,9,2,0,INT,true,7,14,7,14
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966827,27,false,4,44,44,2,30,4,51,51,1,26,1,4,3,-7,PUNT,false,14,7,14,7
+Minnesota,Big Ten,Iowa,Big Ten,400869668,40086966828,28,false,4,12,88,1,26,4,82,18,0,43,0,43,9,70,DOWNS,true,7,14,7,14
+Iowa,Big Ten,Minnesota,Big Ten,400869668,40086966829,29,false,4,82,82,0,43,4,83,83,0,0,0,43,1,-1,END OF GAME,false,14,7,14,7
+Purdue,Big Ten,Iowa,Big Ten,400869673,4008696731,1,false,1,25,75,15,0,1,45,55,11,52,3,8,5,21,PUNT,true,0,0,0,0
+Iowa,Big Ten,Purdue,Big Ten,400869673,4008696732,2,true,1,67,67,11,52,1,0,0,8,57,2,55,8,67,TD,false,0,0,7,0
+Purdue,Big Ten,Iowa,Big Ten,400869673,4008696733,3,false,1,25,75,8,57,1,20,80,8,4,0,53,3,-5,PUNT,true,0,7,0,7
+Iowa,Big Ten,Purdue,Big Ten,400869673,4008696734,4,true,1,63,63,8,4,1,0,0,2,20,5,44,13,63,TD,false,7,0,14,0
+Purdue,Big Ten,Iowa,Big Ten,400869673,4008696735,5,false,1,25,75,2,20,1,26,74,1,34,0,46,3,1,PUNT,true,0,14,0,14
+Iowa,Big Ten,Purdue,Big Ten,400869673,4008696736,6,true,1,54,54,1,34,1,0,0,0,9,1,25,4,54,TD,false,14,0,21,0
+Purdue,Big Ten,Iowa,Big Ten,400869673,4008696737,7,false,1,25,75,0,9,2,32,68,14,32,0,37,3,7,PUNT,true,0,21,0,21
+Iowa,Big Ten,Purdue,Big Ten,400869673,4008696738,8,false,2,94,94,14,32,2,56,56,9,6,5,26,9,38,PUNT,false,21,0,21,0
+Purdue,Big Ten,Iowa,Big Ten,400869673,4008696739,9,false,2,29,71,9,6,2,53,47,6,59,2,7,8,24,PUNT,true,0,21,0,21
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967310,10,true,2,80,80,6,59,2,0,0,3,48,3,11,6,80,TD,false,21,0,28,0
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967311,11,true,2,26,74,3,48,2,100,0,1,29,2,19,5,74,TD,true,0,28,7,28
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967312,12,true,2,75,75,1,29,2,0,0,1,18,0,11,1,75,TD,false,28,7,35,7
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967313,13,false,2,1,99,1,18,2,36,64,0,0,1,18,8,32,DOWNS,true,7,35,7,35
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967315,14,false,3,75,75,15,0,3,53,53,10,53,4,7,7,22,PUNT,false,35,7,35,7
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967316,15,true,3,11,89,10,53,3,100,0,8,6,2,47,7,89,TD,true,7,35,14,35
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967317,16,true,3,91,91,8,6,3,0,0,6,7,1,59,5,91,TD,false,35,14,42,14
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967318,17,false,3,25,75,6,7,3,34,66,4,38,1,29,4,9,DOWNS,true,14,42,14,42
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967319,18,false,3,34,34,4,38,3,40,40,0,44,3,54,6,-6,PUNT,false,42,14,42,14
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967320,19,false,3,6,94,0,44,4,48,52,13,5,2,39,10,42,DOWNS,true,14,42,14,42
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967321,20,false,4,48,48,13,5,4,42,42,11,40,1,25,3,6,PUNT,false,42,14,42,14
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967322,21,true,4,20,80,11,40,4,100,0,8,40,3,0,9,80,TD,true,14,42,21,42
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967323,22,false,4,38,38,8,40,4,33,33,6,22,2,18,3,5,PUNT,false,42,21,42,21
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967324,23,true,4,20,80,6,22,4,100,0,5,36,0,46,5,80,TD,true,21,42,28,42
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967325,24,false,4,47,47,5,36,4,38,38,2,22,3,14,7,10,DOWNS,false,42,28,42,28
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967326,25,true,4,12,88,2,22,4,26,74,1,44,0,38,4,14,INT TD,true,28,42,28,49
+Purdue,Big Ten,Iowa,Big Ten,400869673,40086967327,26,true,4,25,75,1,44,4,100,0,0,17,1,27,8,75,TD,true,28,49,35,49
+Iowa,Big Ten,Purdue,Big Ten,400869673,40086967328,27,false,4,42,42,0,17,4,44,44,0,0,0,17,1,-2,END OF GAME,false,49,35,49,35
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,4008696741,1,false,1,25,75,15,0,1,29,71,13,42,1,18,3,4,PUNT,true,0,0,0,0
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,4008696742,2,false,1,66,66,13,42,1,14,14,8,43,4,59,10,52,MISSED FG,false,0,0,0,0
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,4008696743,3,false,1,20,80,8,43,1,51,49,5,8,3,35,8,31,PUNT,true,0,0,0,0
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,4008696744,4,false,1,91,91,5,8,1,35,35,0,55,4,13,10,56,PUNT,false,0,0,0,0
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,4008696745,5,false,1,7,93,0,55,2,15,85,14,51,1,4,3,8,PUNT,true,0,0,0,0
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,4008696746,6,true,2,58,58,14,51,2,0,0,10,6,4,45,8,58,TD,false,0,0,7,0
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,4008696747,7,false,2,23,77,10,6,2,41,59,8,4,2,2,5,18,PUNT,true,0,7,0,7
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,4008696748,8,false,2,99,99,8,4,2,94,94,6,34,1,30,3,5,PUNT,false,7,0,7,0
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,4008696749,9,true,2,56,44,6,34,2,76,24,3,49,2,45,6,20,FG,true,0,7,3,7
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967410,10,false,2,75,75,3,49,2,1,1,0,54,2,55,6,74,FUMBLE,false,7,3,7,3
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967411,11,true,2,20,80,0,54,2,35,65,0,0,0,54,8,51,END OF HALF,true,3,7,6,7
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967412,12,false,3,75,75,15,0,3,56,56,11,51,3,9,6,19,PUNT,false,7,6,7,6
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967413,13,false,3,19,81,11,51,3,36,64,9,24,2,27,5,17,PUNT,true,6,7,6,7
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967414,14,true,3,62,62,9,24,3,0,0,7,20,2,4,4,62,TD,false,7,6,14,6
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967415,15,false,3,25,75,7,20,3,28,72,6,27,0,53,3,3,PUNT,true,6,14,6,14
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967416,16,false,3,63,63,6,27,3,34,34,3,4,3,23,7,29,MISSED FG,false,14,6,14,6
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967417,17,false,3,34,66,3,4,3,40,60,1,5,1,59,3,6,PUNT,true,6,14,6,14
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967418,18,false,3,69,69,1,5,4,87,87,14,53,1,12,3,-18,PUNT,false,14,6,14,6
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967419,19,false,4,52,48,14,53,4,49,51,13,39,1,14,3,-3,PUNT,true,6,14,6,14
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967420,20,false,4,80,80,13,39,4,43,43,9,31,4,8,8,37,PUNT,false,14,6,14,6
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967421,21,false,4,20,80,9,31,4,80,20,5,25,4,6,11,60,MISSED FG,true,6,14,6,14
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967422,22,true,4,80,80,5,25,4,18,18,1,24,4,1,9,62,FG,false,14,6,17,6
+Iowa,Big Ten,Wisconsin,Big Ten,400869674,40086967423,23,true,4,77,23,1,24,4,93,7,0,43,0,41,6,16,FG,true,6,17,9,17
+Wisconsin,Big Ten,Iowa,Big Ten,400869674,40086967424,24,false,4,54,54,0,43,4,58,58,0,0,0,43,2,-4,END OF GAME,false,17,9,17,9
+Penn State,Big Ten,Iowa,Big Ten,400869688,4008696881,1,true,1,48,52,15,0,1,100,0,12,43,2,17,6,52,TD,true,0,0,7,0
+Iowa,Big Ten,Penn State,Big Ten,400869688,4008696882,2,false,1,75,75,12,43,1,35,35,8,56,3,47,8,40,DOWNS,false,0,7,0,7
+Penn State,Big Ten,Iowa,Big Ten,400869688,4008696883,3,false,1,35,65,8,56,1,88,12,7,32,1,24,5,53,MISSED FG,true,7,0,7,0
+Iowa,Big Ten,Penn State,Big Ten,400869688,4008696884,4,false,1,80,80,7,32,1,50,50,5,13,2,19,4,30,PUNT,false,0,7,0,7
+Penn State,Big Ten,Iowa,Big Ten,400869688,4008696885,5,false,1,11,89,5,13,1,44,56,0,27,4,46,9,33,PUNT,true,7,0,7,0
+Iowa,Big Ten,Penn State,Big Ten,400869688,4008696886,6,false,1,71,71,0,27,2,62,62,13,35,1,52,3,9,PUNT,false,0,7,0,7
+Penn State,Big Ten,Iowa,Big Ten,400869688,4008696887,7,true,2,20,80,13,35,2,100,0,10,28,3,7,6,80,TD,true,7,0,14,0
+Iowa,Big Ten,Penn State,Big Ten,400869688,4008696888,8,false,2,75,75,10,28,2,77,77,9,19,1,9,3,-2,PUNT,false,0,14,0,14
+Penn State,Big Ten,Iowa,Big Ten,400869688,4008696889,9,true,2,38,62,9,19,2,100,0,7,58,1,21,4,62,TD,true,14,0,21,0
+Iowa,Big Ten,Penn State,Big Ten,400869688,40086968810,10,true,2,75,75,7,58,2,0,0,4,13,3,45,7,75,TD,false,0,21,7,21
+Penn State,Big Ten,Iowa,Big Ten,400869688,40086968811,11,true,2,25,75,4,13,2,88,12,0,0,4,13,10,63,FG,true,21,7,24,7
+Iowa,Big Ten,Penn State,Big Ten,400869688,40086968812,12,false,3,90,90,14,55,3,76,76,12,19,2,36,4,14,PUNT,false,7,24,7,24
+Penn State,Big Ten,Iowa,Big Ten,400869688,40086968813,13,false,3,29,71,12,19,3,50,50,8,53,3,26,6,21,PUNT,true,24,7,24,7
+Iowa,Big Ten,Penn State,Big Ten,400869688,40086968814,14,false,3,89,89,8,53,3,90,90,7,8,1,45,3,-1,PUNT,false,7,24,7,24
+Penn State,Big Ten,Iowa,Big Ten,400869688,40086968815,15,true,3,50,50,7,8,3,81,19,2,42,4,26,11,31,FG,true,24,7,27,7
+Iowa,Big Ten,Penn State,Big Ten,400869688,40086968816,16,false,3,77,77,2,42,4,54,54,14,49,2,53,8,23,INT,false,7,27,7,27
+Penn State,Big Ten,Iowa,Big Ten,400869688,40086968817,17,true,4,56,44,14,49,4,100,0,14,35,0,14,1,44,TD,true,34,7,34,7
+Iowa,Big Ten,Penn State,Big Ten,400869688,40086968818,18,false,4,78,78,14,35,4,74,74,12,54,1,41,3,4,PUNT,false,7,34,7,34
+Penn State,Big Ten,Iowa,Big Ten,400869688,40086968819,19,true,4,42,58,12,54,4,100,0,9,24,3,30,6,58,TD,true,34,7,41,7
+Iowa,Big Ten,Penn State,Big Ten,400869688,40086968820,20,true,4,81,81,9,24,4,0,0,6,27,2,57,9,81,TD,false,7,41,14,41
+Penn State,Big Ten,Iowa,Big Ten,400869688,40086968821,21,false,4,5,95,6,27,4,90,10,0,0,6,27,9,85,END OF GAME,true,41,14,41,14
+Iowa,Big Ten,Michigan,Big Ten,400869690,4008696901,1,false,1,23,77,15,0,1,52,48,11,28,3,32,7,29,PUNT,true,0,0,0,0
+Michigan,Big Ten,Iowa,Big Ten,400869690,4008696902,2,false,1,92,92,11,28,1,70,70,8,50,2,38,6,22,PUNT,false,0,0,0,0
+Iowa,Big Ten,Michigan,Big Ten,400869690,4008696903,3,false,1,35,65,8,50,1,36,64,7,27,1,23,4,-4,DOWNS,true,0,0,0,0
+Michigan,Big Ten,Iowa,Big Ten,400869690,4008696904,4,true,1,31,31,7,27,1,8,8,4,0,3,27,10,23,FG,false,0,0,3,0
+Iowa,Big Ten,Michigan,Big Ten,400869690,4008696905,5,false,1,25,75,4,0,2,72,28,13,25,5,35,11,47,MISSED FG,true,0,3,0,3
+Michigan,Big Ten,Iowa,Big Ten,400869690,4008696906,6,true,2,72,72,13,25,2,0,0,8,56,4,29,9,72,TD,false,3,0,10,0
+Iowa,Big Ten,Michigan,Big Ten,400869690,4008696907,7,false,2,20,80,8,56,2,44,56,6,41,2,15,4,24,PUNT,true,0,10,0,10
+Michigan,Big Ten,Iowa,Big Ten,400869690,4008696908,8,true,2,98,98,6,41,2,98,98,6,31,0,10,2,-2,SF,false,10,0,10,2
+Iowa,Big Ten,Michigan,Big Ten,400869690,4008696909,9,false,2,31,69,6,31,2,33,67,5,19,1,12,3,2,PUNT,true,2,10,2,10
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969010,10,false,2,80,80,5,19,2,79,79,4,14,1,5,3,1,PUNT,false,10,2,10,2
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969011,11,true,2,48,52,4,14,2,100,0,1,27,2,47,7,52,TD,true,2,10,8,10
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969012,12,false,2,62,62,1,27,2,60,60,0,19,1,8,3,2,PUNT,false,10,8,10,8
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969013,13,false,2,12,88,0,19,2,35,65,0,0,0,19,1,-2,FUMBLE,true,8,10,8,10
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969014,14,true,3,57,43,15,0,3,93,7,9,55,5,5,10,36,FG,true,8,10,11,10
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969015,15,false,3,75,75,9,55,3,67,67,8,51,1,4,3,8,PUNT,false,10,11,10,11
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969016,16,false,3,15,85,8,51,3,13,87,6,44,2,7,3,-2,PUNT,true,11,10,11,10
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969017,17,false,3,48,48,6,44,3,48,48,4,37,2,7,3,0,PUNT,false,10,11,10,11
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969018,18,false,3,20,80,4,37,3,39,61,0,15,4,22,8,19,PUNT,true,11,10,11,10
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969019,19,true,3,93,93,0,15,4,33,33,9,35,5,40,12,60,FG,false,10,11,13,11
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969020,20,false,4,22,78,9,35,4,27,73,8,39,0,56,3,5,PUNT,true,11,13,11,13
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969021,21,false,4,60,60,8,39,4,38,38,3,43,4,56,9,22,INT,false,13,11,13,11
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969022,22,false,4,25,75,3,43,4,46,54,1,54,1,49,5,21,INT,true,11,13,11,13
+Michigan,Big Ten,Iowa,Big Ten,400869690,40086969023,23,false,4,84,84,1,54,4,82,82,1,23,0,31,3,2,PUNT,false,13,11,13,11
+Iowa,Big Ten,Michigan,Big Ten,400869690,40086969024,24,true,4,64,36,1,23,4,35,65,0,0,1,23,5,21,END OF GAME,true,11,13,14,13
+Illinois,Big Ten,Iowa,Big Ten,400869694,4008696941,1,false,1,25,75,15,0,1,48,52,12,45,2,15,4,23,PUNT,true,0,0,0,0
+Iowa,Big Ten,Illinois,Big Ten,400869694,4008696942,2,false,1,75,75,12,45,1,66,66,10,47,1,58,3,9,PUNT,false,0,0,0,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,4008696943,3,false,1,34,66,10,47,1,48,52,8,11,2,36,6,14,PUNT,true,0,0,0,0
+Iowa,Big Ten,Illinois,Big Ten,400869694,4008696944,4,false,1,85,85,8,11,1,86,86,6,14,1,57,3,-1,PUNT,false,0,0,0,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,4008696945,5,false,1,50,50,6,14,1,60,40,3,35,2,39,6,10,PUNT,true,0,0,0,0
+Iowa,Big Ten,Illinois,Big Ten,400869694,4008696946,6,false,1,83,83,3,35,1,47,47,1,6,2,29,6,36,PUNT,false,0,0,0,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,4008696947,7,false,1,20,80,1,6,1,26,74,0,18,0,48,3,6,PUNT,true,0,0,0,0
+Iowa,Big Ten,Illinois,Big Ten,400869694,4008696948,8,false,1,55,55,0,18,2,64,64,14,6,1,12,3,-9,INT,false,0,0,0,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,4008696949,9,false,2,56,44,14,6,2,63,37,12,14,1,52,3,7,PUNT,true,0,0,0,0
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969410,10,false,2,80,80,12,14,2,1,1,6,20,5,54,12,79,FUMBLE,false,0,0,0,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969411,11,true,2,1,99,6,20,2,5,95,4,33,1,47,3,4,PUNT RETURN TD,true,0,0,0,7
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969413,12,false,2,13,87,4,33,2,52,48,1,48,2,45,7,39,PUNT,true,0,7,0,7
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969414,13,false,2,98,98,1,48,2,89,89,1,15,0,33,3,9,PUNT,false,7,0,7,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969415,14,false,2,47,53,1,15,2,44,56,0,10,1,5,3,-3,PUNT,true,0,7,0,7
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969416,15,false,2,74,74,0,10,2,76,76,0,0,0,10,1,-2,END OF HALF,false,7,0,7,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969417,16,false,3,25,75,15,0,3,30,70,14,3,0,57,3,5,PUNT,true,0,7,0,7
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969418,17,true,3,77,77,14,3,3,0,0,7,51,6,12,12,77,TD,false,7,0,14,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969419,18,false,3,25,75,7,51,3,32,68,5,40,2,11,3,7,PUNT,true,0,14,0,14
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969420,19,false,3,53,53,5,40,3,62,62,4,2,1,38,3,-9,PUNT,false,14,0,14,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969421,20,false,3,6,94,4,2,3,19,81,3,5,0,57,3,13,INT,true,0,14,0,14
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969422,21,false,3,44,44,3,5,4,18,18,12,55,5,10,10,26,DOWNS,false,14,0,14,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969423,22,false,4,18,82,12,55,4,53,47,8,4,4,51,10,35,DOWNS,true,0,14,0,14
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969424,23,true,4,53,53,8,4,4,0,0,7,17,0,47,2,53,TD,false,14,0,21,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969425,24,false,4,22,78,7,17,4,26,74,7,17,0,0,0,4,FUMBLE,true,0,21,0,21
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969426,25,true,4,26,26,7,17,4,0,0,4,41,2,36,5,26,TD,false,21,0,28,0
+Illinois,Big Ten,Iowa,Big Ten,400869694,40086969427,26,false,4,42,58,4,41,4,70,30,1,45,2,56,11,28,DOWNS,true,0,28,0,28
+Iowa,Big Ten,Illinois,Big Ten,400869694,40086969428,27,false,4,70,70,1,45,4,62,62,0,0,1,45,3,8,END OF GAME,false,28,0,28,0
+Iowa,Big Ten,Nebraska,Big Ten,400869699,4008696991,1,false,1,30,70,15,0,1,35,65,14,3,0,57,3,5,PUNT,true,0,0,0,0
+Nebraska,Big Ten,Iowa,Big Ten,400869699,4008696992,2,false,1,76,76,14,3,1,65,65,11,37,2,26,7,11,PUNT,false,0,0,0,0
+Iowa,Big Ten,Nebraska,Big Ten,400869699,4008696993,3,false,1,24,76,11,37,1,47,53,8,21,3,16,5,23,PUNT,true,0,0,0,0
+Nebraska,Big Ten,Iowa,Big Ten,400869699,4008696994,4,false,1,76,76,8,21,1,54,54,5,46,2,35,6,22,PUNT,false,0,0,0,0
+Iowa,Big Ten,Nebraska,Big Ten,400869699,4008696995,5,true,1,20,80,5,46,1,100,0,4,55,0,51,2,80,TD,true,0,0,6,0
+Nebraska,Big Ten,Iowa,Big Ten,400869699,4008696996,6,false,1,74,74,4,55,1,70,70,3,39,1,16,3,4,PUNT,false,0,6,0,6
+Iowa,Big Ten,Nebraska,Big Ten,400869699,4008696997,7,true,1,23,77,3,39,1,100,0,3,28,0,11,1,77,TD,true,13,0,13,0
+Nebraska,Big Ten,Iowa,Big Ten,400869699,4008696998,8,false,1,71,71,3,28,1,54,54,1,15,2,13,5,17,PUNT,false,0,13,0,13
+Iowa,Big Ten,Nebraska,Big Ten,400869699,4008696999,9,false,1,49,51,1,15,2,58,42,14,10,2,5,5,9,PUNT,true,13,0,13,0
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969910,10,true,2,84,84,14,10,2,18,18,9,57,4,13,10,66,FG,false,0,13,3,13
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969911,11,true,2,31,69,9,57,2,100,0,7,49,2,8,4,69,TD,true,13,3,20,3
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969912,12,false,2,75,75,7,49,2,52,52,4,2,3,47,9,23,PUNT,false,3,20,3,20
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969913,13,false,2,9,91,4,2,2,18,82,0,0,4,2,7,9,END OF HALF,true,20,3,20,3
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969914,14,false,3,75,75,15,0,3,73,73,14,4,0,56,3,2,PUNT,false,3,20,3,20
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969915,15,true,3,74,26,14,4,3,100,0,12,40,1,24,3,26,TD,true,20,3,26,3
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969916,16,true,3,75,75,12,40,3,0,0,7,47,4,53,14,75,TD,false,3,26,10,26
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969917,17,false,3,30,70,7,47,3,35,65,5,38,2,9,3,5,PUNT,true,26,10,26,10
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969918,18,false,3,90,90,5,38,3,85,85,4,44,0,54,3,5,PUNT,false,10,26,10,26
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969919,19,false,3,34,66,4,44,3,43,57,3,9,1,35,3,9,PUNT,true,26,10,26,10
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969920,20,false,3,90,90,3,9,3,89,89,2,28,0,41,3,1,PUNT,false,10,26,10,26
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969921,21,true,3,56,44,2,28,4,100,0,11,13,6,15,12,44,TD,true,26,10,33,10
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969922,22,false,4,84,84,11,13,4,68,68,10,5,1,8,3,16,PUNT,false,10,33,10,33
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969923,23,true,4,55,45,10,5,4,100,0,1,55,8,10,13,45,TD,true,33,10,40,10
+Nebraska,Big Ten,Iowa,Big Ten,400869699,40086969924,24,false,4,75,75,1,55,4,83,83,0,15,1,40,3,-8,PUNT,false,10,40,10,40
+Iowa,Big Ten,Nebraska,Big Ten,400869699,40086969925,25,false,4,57,43,0,15,4,74,26,0,0,0,15,1,15,END OF GAME,true,40,10,40,10
+Florida,SEC,Iowa,Big Ten,400876109,4008761091,1,false,1,75,75,15,0,1,67,67,13,7,1,53,5,8,INT,false,0,0,0,0
+Iowa,Big Ten,Florida,SEC,400876109,4008761092,2,false,1,28,72,13,7,1,35,65,11,41,1,26,3,7,PUNT,true,0,0,0,0
+Florida,SEC,Iowa,Big Ten,400876109,4008761093,3,false,1,78,78,11,41,1,71,71,10,21,1,20,3,7,INT,false,0,0,0,0
+Iowa,Big Ten,Florida,SEC,400876109,4008761094,4,true,1,73,27,10,21,1,82,18,8,56,1,25,5,9,FG,true,0,0,3,0
+Florida,SEC,Iowa,Big Ten,400876109,4008761095,5,true,1,75,75,8,56,1,26,26,5,42,3,14,8,49,FG,false,0,3,3,3
+Iowa,Big Ten,Florida,SEC,400876109,4008761096,6,false,1,25,75,5,42,1,57,43,1,2,4,40,8,32,PUNT,true,3,3,3,3
+Florida,SEC,Iowa,Big Ten,400876109,4008761097,7,false,1,85,85,1,2,2,67,67,13,1,3,1,7,18,PUNT,false,3,3,3,3
+Iowa,Big Ten,Florida,SEC,400876109,4008761098,8,false,2,36,64,13,1,2,99,1,7,41,5,20,10,61,DOWNS,true,3,3,3,3
+Florida,SEC,Iowa,Big Ten,400876109,4008761099,9,false,2,97,97,7,41,2,51,51,4,47,2,54,5,46,PUNT,false,3,3,3,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610910,10,false,2,20,80,4,47,2,32,68,2,2,2,45,6,12,PUNT,true,3,3,3,3
+Florida,SEC,Iowa,Big Ten,400876109,40087610911,11,true,2,85,85,2,2,2,0,0,1,46,0,16,1,85,TD,false,10,3,10,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610912,12,false,2,25,75,1,46,2,23,77,0,55,0,51,3,-2,PUNT,true,3,10,3,10
+Florida,SEC,Iowa,Big Ten,400876109,40087610913,13,false,2,48,48,0,55,2,49,49,0,0,0,55,3,-1,END OF HALF,false,10,3,10,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610914,14,false,3,25,75,15,0,3,88,12,7,35,7,25,13,63,MISSED FG,true,3,10,3,10
+Florida,SEC,Iowa,Big Ten,400876109,40087610915,15,true,3,80,80,7,35,3,0,0,0,48,6,47,12,80,TD,false,10,3,17,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610916,16,true,3,21,79,0,48,4,38,62,14,44,1,4,4,17,INT TD,true,3,17,3,24
+Iowa,Big Ten,Florida,SEC,400876109,40087610917,17,false,4,49,51,14,44,4,48,52,13,37,1,7,3,-1,PUNT,true,3,24,3,24
+Florida,SEC,Iowa,Big Ten,400876109,40087610918,18,false,4,62,62,13,37,4,58,58,11,31,2,6,3,4,PUNT,false,24,3,24,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610919,19,false,4,12,88,11,31,4,22,78,11,11,0,20,1,10,INT,true,3,24,3,24
+Florida,SEC,Iowa,Big Ten,400876109,40087610920,20,true,4,7,7,11,11,4,8,8,9,46,1,25,4,-1,FG,false,24,3,27,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610921,21,false,4,25,75,9,46,4,51,49,7,36,2,10,5,26,INT,true,3,27,3,27
+Florida,SEC,Iowa,Big Ten,400876109,40087610922,22,true,4,36,36,7,36,4,30,30,5,57,1,39,4,6,FG,false,27,3,30,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610923,23,false,4,25,75,5,57,4,25,75,5,1,0,56,3,0,PUNT,true,3,30,3,30
+Florida,SEC,Iowa,Big Ten,400876109,40087610924,24,false,4,50,50,5,1,4,47,47,2,58,2,3,3,3,PUNT,false,30,3,30,3
+Iowa,Big Ten,Florida,SEC,400876109,40087610925,25,false,4,2,98,2,58,4,9,91,1,12,1,46,3,7,PUNT,true,3,30,3,30
+Florida,SEC,Iowa,Big Ten,400876109,40087610926,26,false,4,55,55,1,12,4,58,58,0,0,1,12,2,-3,END OF GAME,false,30,3,30,3

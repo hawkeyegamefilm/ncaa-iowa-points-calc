@@ -132,6 +132,3 @@ dmypy.json
 #exclude .idea dir & files
 .idea
 *.iml
-
-#exclude data dir, too big to push
-data
